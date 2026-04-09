@@ -1,4 +1,4 @@
-# >_ https://github.com/thedevdepot/dotfiles/blob/main/dot_files.pngThe Dev Depot
+# >_ The Dev Depot
 
 Network Engineer | CCNA in Progress  
 Cybersecurity and Application Support  
