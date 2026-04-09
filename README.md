@@ -1,8 +1,7 @@
-# [The Dev Depot]
+# >_ https://github.com/thedevdepot/dotfiles/blob/main/dot_files.pngThe Dev Depot
 
 Network Engineer | CCNA in Progress  
-Background in Cybersecurity and Application Support  
-Houston, TX  
+Cybersecurity and Application Support  
 
 ---
 
