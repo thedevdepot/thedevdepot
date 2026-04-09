@@ -19,8 +19,8 @@ My background in cybersecurity and application support provides experience in tr
 Analyzing network traffic and troubleshooting connectivity issues using Wireshark and TCP/IP fundamentals.  
 Building and testing network environments through hands-on labs covering routing, switching, and subnetting.  
 Applying cybersecurity concepts to understand threats and how they interact with network infrastructure.  
-Useing Python for scripting, automation, and building small tools for system interaction.  
-Work with modern infrastructure concepts including Azure, VPNs, IAM, and Docker.  
+Using Python for scripting, automation, and building small tools for system interaction.  
+Working with modern infrastructure concepts including Azure, VPNs, IAM, and Docker.  
 
 ---
 
@@ -31,7 +31,7 @@ Integrating local llms with agentic apis to analyze log traffic
 ### CCNA Labs  
 Hands-on networking labs focused on configuration, troubleshooting, and core concepts such as VLANs, routing, and subnetting.  
  
-![CCNA Lab](./assets/ccna-lab.png)
+![Day 18 CCNA Lab](https://github.com/thedevdepot/CCNA-labs/blob/main/day%2018%20ccna%20lab.png)
 
 https://github.com/thedevdepot/CCNA-labs  
 
@@ -40,7 +40,7 @@ https://github.com/thedevdepot/CCNA-labs
 ### Python Paint App  
 Minimal GUI-based paint application built to explore event handling and interface design.  
  
-![Paint App](./assets/paint.png)
+![Paint App](https://github.com/thedevdepot/paint_py/blob/main/paint_py.png)
 
 https://github.com/thedevdepot/paint_py  
 
@@ -49,7 +49,7 @@ https://github.com/thedevdepot/paint_py
 ### Python Web Browser  
 Simple browser built using Python libraries to understand HTTP requests and basic rendering.  
 
-![Web Browser](./assets/browser.png)
+![Web Browser](https://github.com/thedevdepot/web_browser/blob/master/browser_pic.png)
 
 https://github.com/thedevdepot/web_browser  
 
@@ -58,7 +58,7 @@ https://github.com/thedevdepot/web_browser
 ### Reather (JavaScript Game)  
 Browser-based game built to strengthen JavaScript logic and interactive programming.  
 
-![Reather](./assets/reather.png)
+![Reather](https://github.com/thedevdepot/reather/blob/main/reather.png)
 
 https://github.com/thedevdepot/reather  
 
@@ -67,7 +67,7 @@ https://github.com/thedevdepot/reather
 ### Dotfiles  
 Personal development environment configuration focused on efficiency and customization.  
 
-![Dotfiles](./assets/dotfiles.png)
+![Dotfiles](https://github.com/thedevdepot/dotfiles/blob/main/dot_files.png)
 
 https://github.com/thedevdepot/dotfiles  
 
@@ -78,7 +78,7 @@ https://github.com/thedevdepot/dotfiles
 CompTIA Security+  
 CompTIA CySA+  
 CompTIA PenTest+
-CompTIA Security X (formerly CASP +)
+CompTIA Security X(formerly CASP +)
 ISC2 Certified in Cybersecurity (CC)  
 Google Cybersecurity Certificate  
 CCNA (In Progress)  
