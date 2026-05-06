@@ -1,6 +1,6 @@
 # >_ The Dev Depot
 
-Network Engineer | CCNA in Progress  
+Software Network & Security Engineer | CCNA in Progress  
 Cybersecurity and Application Support  
 
 ---
