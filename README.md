@@ -24,8 +24,27 @@ Working with modern infrastructure concepts including Azure, VPNs, IAM, and Dock
 ---
 
 ## Projects
-CCNA Packet Tracer labs
+
 Integrating local llms with agentic apis to analyze log traffic
+
+### Reading Level Checker Web App
+This app will quiz users and dynamically determine their current reading level through many quesitons types.
+- multiple choice
+- annotate the text
+- finish the sentence
+- define the word based on context by writing a complete sentence
+- write a 3 sentence paragraph explaining the author's intent
+- draw a picture of what the author describes
+
+As a high school ELA teacher that assists special education students I a am inspired by apps like Peardeck, Edpuzzle, Quizziz, Gimkit, and Magicschool.
+I believe that without REAL positive engagment it is impossible to get good actionable data to help grow students.
+I would like to build an app to change that.
+
+
+![Azure Storage setup screenshot](https://github.com/thedevdepot/readingdevelopment/blob/main/azure_hosted.png)
+
+Check out this repo: 
+![Reading app](https://github.com/thedevdepot/readingdevelopment/tree/main)
 
 ### CCNA Labs  
 Hands-on networking labs focused on configuration, troubleshooting, and core concepts such as VLANs, routing, and subnetting.  
