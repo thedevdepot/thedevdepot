@@ -41,7 +41,7 @@ I believe that without REAL positive engagment it is impossible to get good acti
 I would like to build an app to change that.
 
 
-![Azure Storage setup screenshot](https://github.com/thedevdepot/readingdevelopment/blob/main/azure_hosted.png)
+![Azure Storage setup screenshot](https://github.com/thedevdepot/readingdevelopment/blob/main/mvp_running.png)
 
 Check out this repo: 
 ![Reading app](https://github.com/thedevdepot/readingdevelopment/tree/main)
